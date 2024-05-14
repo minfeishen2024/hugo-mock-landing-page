@@ -15,7 +15,7 @@ InkSMITH is a centralized creative hub with an built in AI writing assistant tai
 
 ## Getting Started
 
-To get started with NutritionSnap, follow these steps:
+To get started with InkSmith, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project in your preferred code editor.
