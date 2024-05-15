@@ -19,5 +19,4 @@ To get started with InkSmith, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project in your preferred code editor.
-3. Follow the installation instructions in the `INSTALL.md` file to set up the app.
-4. Start the development server and begin exploring the app's features.
+3. Install Hugo and run `hugo server` from the root of repository.
